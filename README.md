@@ -10,3 +10,11 @@ Create src/main.rs with the provided code
 Run with cargo run
 
 Access the app at http://localhost:8080
+
+To use the search feature:
+
+Enter keywords in the search box (like "bitcoin" or "ethereum")
+
+Click the Search button
+
+To clear the search, click the "Clear Search" link
