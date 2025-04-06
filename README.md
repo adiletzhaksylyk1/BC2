@@ -18,3 +18,4 @@ Enter keywords in the search box (like "bitcoin" or "ethereum")
 Click the Search button
 
 To clear the search, click the "Clear Search" link
+![image](https://github.com/user-attachments/assets/2092704c-828b-4514-8fbc-2af0298a2330)
